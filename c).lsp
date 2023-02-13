@@ -27,5 +27,3 @@
 (print (minim '(3 2 2 5 2 3) 10))
 (print (RemFirstOcc '(3 2 2 5 2 3) 5))
 (print (sorting '(13 2 2 3 5 2 -1 3)))
-
-https://rextester.com/BWF53383
