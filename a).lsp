@@ -19,7 +19,3 @@
 )
 
 (print (ReunionOfSets '(1 91 3 5) '(2 3 4 1 9 91)))
-
-
-
-https://rextester.com/YWOUG45416
