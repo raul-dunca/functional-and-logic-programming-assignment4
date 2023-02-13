@@ -9,6 +9,3 @@
 )
 
 (print (product '(1 (1 (3 2)) 2 5 a (1 2 3))))
-
-
-https://rextester.com/WYGZC21934
